@@ -49,5 +49,5 @@ jobs:
           tags: |
             mzscilifelab/gensum:${{ github.event.release.tag_name }}
             mzscilifelab/gensume:latest
-            ghcr.io/mzscilifelab/gensum:${{ github.event.release.tag_name }}
-            ghcr.io/mzscilifelab/gensum:latest
+            ghcr.io/matthiaszepper/gensum:${{ github.event.release.tag_name }}
+            ghcr.io/matthiaszepper/gensum:latest
